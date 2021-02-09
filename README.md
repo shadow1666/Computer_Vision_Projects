@@ -1,5 +1,5 @@
 ## Computer_vision_projects
-This repository contains my projects relating to Computer Vision.
+This repository contains  projects relating to Computer Vision.
 Belows are brief description and demonstration of these projects:
 
 1. [Traffic segmentation with Mask_RCNN](#traffic-segmentation-with-Mask_RCNN)
